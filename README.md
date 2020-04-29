@@ -7,4 +7,7 @@ Easy way to beefing someone.
 -Beef
 
 # How to do
-All you have to do is put in attiny85 to victim computer and after 5 seconds were all done
+-All you have to do is put in attiny85 to victim computer and after 5 seconds were all done
+-And then connect to beef with your own computer so you're in!
+
+
